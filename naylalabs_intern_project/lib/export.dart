@@ -1,0 +1,14 @@
+export 'package:flutter/material.dart';
+export 'package:provider/provider.dart';
+export 'package:shimmer/shimmer.dart';
+export 'package:naylalabs_intern_project/providers/api_data_fetch_provider.dart';
+export 'package:naylalabs_intern_project/screens/home_page.dart';
+export 'package:vs_scrollbar/vs_scrollbar.dart';
+export 'package:naylalabs_intern_project/models/movie_data_model.dart';
+export 'package:naylalabs_intern_project/components/movie_news_card.dart';
+export 'package:naylalabs_intern_project/components/build_shimmer_loading.dart';
+export 'package:naylalabs_intern_project/providers/movie_news_card_provider.dart';
+export 'package:naylalabs_intern_project/components/card_news_content.dart';
+export 'package:naylalabs_intern_project/services/api_service.dart';
+export 'package:naylalabs_intern_project/constants/font_constants.dart';
+export 'package:naylalabs_intern_project/components/build_future_builder.dart';

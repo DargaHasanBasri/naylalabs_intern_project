@@ -1,0 +1,44 @@
+name: naylalabs_intern_project
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5  
+  dio: ^5.1.2
+  shimmer: ^3.0.0
+  animations: ^2.0.7
+  vs_scrollbar: ^0.2.1
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+
+  fonts:
+  - family: Montserrat-Light
+    fonts:
+      - asset: assets/fonts/Montserrat-Light.ttf
+  - family: Montserrat-Medium
+    fonts:
+      - asset: assets/fonts/Montserrat-Medium.ttf
+  - family: Times-New-Roman
+    fonts:
+      - asset: assets/fonts/Times-New-Roman.ttf
