@@ -1,5 +1,3 @@
-import 'package:naylalabs_intern_project/constants/color_constans.dart';
-
 import 'export.dart';
 
 void main() {

@@ -12,3 +12,4 @@ export 'package:naylalabs_intern_project/components/card_news_content.dart';
 export 'package:naylalabs_intern_project/services/api_service.dart';
 export 'package:naylalabs_intern_project/constants/font_constants.dart';
 export 'package:naylalabs_intern_project/components/build_future_builder.dart';
+export 'package:naylalabs_intern_project/constants/color_constans.dart';
